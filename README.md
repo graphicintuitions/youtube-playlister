@@ -1,7 +1,7 @@
 # Youtube Playlister
 This script allows you to show a list of youtube videos on your site by simply embedding a script and defining a custom component.
 
-##Getting Started
+## Getting Started
 Upload ```dist/youtube-playlister.js``` file to publically accessible place. Also see the ```demo/``` directory for a full example.
  
 ```html
